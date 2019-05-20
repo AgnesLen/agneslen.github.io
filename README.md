@@ -2,20 +2,15 @@
 
 # 个人简历模板
 
-[http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
+[https://agneslen.github.io/](https://agneslen.github.io/)
 
 ## Intro
 
-此简历模板：
-
-- 内容上，来源于我本人真实求职经历以及参加多次网上简历培训总结而成
-- 风格上，参考众多简历风格，@DIYgod，@ekCit以及~~我自己的博客主题 [itsay.me](http://itsay.me)~~
-
-欢迎提issue或者star，ღ( ´･ᴗ･` )比心
+此我在网上找来的简历模板，修改后作为求职用。
 
 ## Object
 
-前端求职/程序员求职
+程序员求职
 
 ## Usage
 
@@ -34,21 +29,3 @@
 
 ### 移动端
 ![](assets/images/ip.png)
-
-## TODO
-- [x] 左栏固定（切换）
-- [ ] 输出pdf功能
-- [ ] 可编辑
-
-## ChangeLog
-- 2017.3.7 创建模板
-- 2017.3.12 移动端优化
-- 2017.12.20 修改部分内容
-- 2018.6.20 新增左栏固定功能（切换）
-
-## Acknowledgments
-- font-awesome提供字体图标
-
-## LICENSE
-
-MIT © [ITSAY](http://blog.if2er.com)
